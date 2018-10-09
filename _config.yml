@@ -11,11 +11,11 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               SUnMaRC 2017
-tagline:             'Northern Arizona University'
-description:         'SUnMaRC 2017'
+title:               Problem of the Week
+tagline:             'Mathematics and Statistics'
+description:         'Problem of the Week'
 url:                 'http://NAUMathStat.github.io'
-baseurl:             '/sunmarc2017'
+baseurl:             '/problem-of-the-week'
 paginate:            10
 
 # About/contact
@@ -29,4 +29,4 @@ version:             1.0.0
 
 # GitHub
 github:
-  repo:             github.com/NAUMathStat/sunmarc2017
+  repo:             github.com/NAUMathStat/problem-of-the-week
