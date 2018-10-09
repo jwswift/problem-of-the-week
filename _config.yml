@@ -12,7 +12,7 @@ permalink:           pretty
 
 # Setup
 title:               Problem of the Week
-tagline:             'Mathematics and Statistics'
+tagline:             'Mathematics & Statistics'
 description:         'Problem of the Week'
 url:                 'http://NAUMathStat.github.io'
 baseurl:             '/problem-of-the-week'
