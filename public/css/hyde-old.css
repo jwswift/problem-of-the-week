@@ -34,7 +34,7 @@
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
-@media (min-width: 48em) {
+@media (min-width: 38em) {
   html {
     font-size: 16px;
   }
@@ -55,6 +55,7 @@ html {
 }
 .masthead-title subtitle {
   color: #9a9a9a;
+  font-size: 55%;
 }
 
 /*
@@ -66,10 +67,21 @@ html {
 
 .sidebar {
   text-align: left;
-  padding: 2rem 1rem;
+  padding: 2rem 1rem 1rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+/* @media (min-width: 38em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 15rem;
+    text-align: left;
+  }
+} */
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -90,12 +102,12 @@ html {
 .sidebar-about h1 {
   color: #268bd2;
   margin-top: 0;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
 }
 .sidebar-about h2 {
   margin-top: 0;
   color: #9a9a9a;
-  font-size: 1.15rem;
+  font-size: .9rem;
 }
 
 /* Sidebar nav */
@@ -147,7 +159,7 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 38em) {
   .content {
     max-width: 38rem;
     margin-left: 20rem;
@@ -169,7 +181,7 @@ a.sidebar-nav-item:focus {
  * Flip the orientation of the page by placing the `.sidebar` on the right.
  */
 
-@media (min-width: 48em) {
+@media (min-width: 38em) {
   .layout-reverse .sidebar {
     left: auto;
     right: 0;
