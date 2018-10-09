@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SUnMaRC 2017
+title: Problem of the Week
 ---
 
 <p>The 2017 edition of <a href="http://www.sunmarc.org">The Southwestern Undergraduate Mathematics Research Conference</a> (SUnMaRC) takes places on <b>Friday, March 31 through Sunday, April 2</b> at <a href="http://nau.edu">Northern Arizona University</a> in Flagstaff, AZ. SUnMaRC brings together students and faculty from throughout the southwest for a weekend of mathematics. SUnMaRC is designed to provide opportunities for students to attend or present mathematics research in a supportive and fun atmosphere.  In addition to student talks, there are <a href="{{ site.baseurl }}/speakers">invited speakers</a>.</p>
