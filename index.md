@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Week
+title: Problem of the Week
 ---
 
-The problems for the Department of Mathematics and Statistics Week are provided below in reverse chronological order. All answers should be clearly explained.  Please submit your proposed solutions to the Mathematics and Statistics Office, AMB 107.  If your instructor gives you credit for submissions for Week, you should provide your instructor's name and class number (e.g., MAT 320) on your solution. Unless explicitly stated otherwise, solutions are due by 5:00PM on Wednesday each week. Please contact [Dr. Bahattin Yildiz](mailto:bahattin.yildiz@nau.edu) (AMB 134) with any questions.
+The problems for the Department of Mathematics and Statistics Problem of the Week are provided below in reverse chronological order. All answers should be clearly explained.  Please submit your proposed solutions to the Mathematics and Statistics Office, AMB 107.  If your instructor gives you credit for submissions for Problem of the Week, you should provide your instructor's name and class number (e.g., MAT 320) on your solution. Unless explicitly stated otherwise, solutions are due by 5:00PM on Wednesday each week. Please contact [Dr. Bahattin Yildiz](mailto:bahattin.yildiz@nau.edu) (AMB 134) with any questions.
 
 - [Problem 6]({{ site.baseurl }}/files/potw6-20181015.pdf) (Due 10/17/18)
 - [Problem 5]({{ site.baseurl }}/files/potw5-20181008.pdf) (Due 10/10/18)
